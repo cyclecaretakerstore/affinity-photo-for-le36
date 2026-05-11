@@ -1,4 +1,4 @@
-
+Enhance Affinity Photo for macOS with new Filter for Affinity Photo for macOS - color correction and non-destructive editing, the #1 filter. Includes color correction and
 
 
 
